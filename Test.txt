@@ -1,0 +1,8 @@
+ - git init
+  - git status
+  - git add * name of a file* "
+  - git commit -m “…..”
+  - git remote add origin https://github.com/RaghavAutomation/R...​
+  - git push -u origin master
+  - git log
+  - git —help
